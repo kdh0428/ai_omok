@@ -1,0 +1,1 @@
+void Game_End(char who);
